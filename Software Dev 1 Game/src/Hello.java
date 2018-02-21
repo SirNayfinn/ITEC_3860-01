@@ -8,11 +8,14 @@ public class Hello
 		System.out.println("Travis Simmons is here.");
 		System.out.println("Hye An is here.");
 		System.out.println("Sean Lomar Hutchinson is here.");
-
+		
+		System.out.println("Hello");
+		
 		System.out.println("Hello Everyone.. :)");
 		System.out.println("Push it real good");
 
 		System.out.println("Hey yous guys");
+		//Sean's comment
 
 	}
 	
