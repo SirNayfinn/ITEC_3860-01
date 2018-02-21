@@ -19,8 +19,6 @@ public class Hello
 		//Sean's comment
 		
 
-		
-
 		System.out.println("Hello.....");
 		
 		
